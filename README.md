@@ -1,7 +1,7 @@
 # fetal_image_quality_assessment
 
 Author: Sayeri Lala
-email: ls2121@alum.mit.edu, lsls21079@gmail.com
+email: ls2121@alum.mit.edu, slala21021@gmail.com
 date: May 2019
 
 Code for experiments reported in:
